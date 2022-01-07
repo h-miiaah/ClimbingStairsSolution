@@ -15,5 +15,12 @@
     }
 
     return second;
-    
+
 };
+
+/*
+
+- declare a conditional base case of n = 1 or n = 0
+
+
+*/
