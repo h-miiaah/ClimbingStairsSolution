@@ -9,6 +9,6 @@
     let second = 2;
 
     for (let i = 3; i <= n; i++) {
-        
+        let third = first + second;
     }
 };
