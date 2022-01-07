@@ -13,4 +13,7 @@
         first = second;
         second = third;
     }
+
+    return second;
+    
 };
