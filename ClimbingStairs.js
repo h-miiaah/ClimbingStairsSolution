@@ -24,5 +24,6 @@
 - set variables first = 1, second = 2
 - loop through the range of n and calculate the third value
 - set variables first = second and second = third
+- finally we return second
 
 */
